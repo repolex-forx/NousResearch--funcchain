@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "funcchain",
+  "versions": [
+    {
+      "commit": "4ba7c6b9cd8961b916ff875a950015f89bff82a3",
+      "tag": "",
+      "parsed_at": "2026-10-09T13:23:48.388606+00:00"
+    }
+  ]
+}
